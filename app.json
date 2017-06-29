@@ -1,0 +1,21 @@
+{
+  "id": "ddd76c04-1fd3-438b-9d33-9423b18d0289",
+  "name": "MasterClass Exercise 1",
+  "publisher": "Mark Brummel",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+   "EULA": "",
+   "help": "",
+   "url": "",
+   "logo": "",
+   "capabilities": [],
+   "screenshots": [],
+   "platform": "10.0.0.0",
+   "application": {
+       "version": "10.0.0.0",
+       "locale": "US"
+   },
+   "packageCachePath": "../../resources"
+}
